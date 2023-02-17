@@ -1,0 +1,1 @@
+el video del ejercicio 1 es el mismo que entregue en la practica 2 porque en esta ya demostre la capacidad del micro de recibir corriente por el adaptador de corriente
